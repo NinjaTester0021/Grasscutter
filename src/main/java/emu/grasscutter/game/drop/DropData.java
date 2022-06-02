@@ -2,6 +2,7 @@ package emu.grasscutter.game.drop;
 
 public class DropData {
     private int minWeight;
+    private int c;
     private int maxWeight;
     private int itemId;
     private int minCount;
